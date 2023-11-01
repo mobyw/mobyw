@@ -1,8 +1,8 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙈𝙤𝙗𝙮 𝙒𝙖𝙣𝙜
 
 [![](https://img.shields.io/badge/mobyw-%23181717?style=for-the-badge&logo=github)](https://github.com/mobyw)
-[![](https://wakatime.com/badge/user/56ad1647-52b2-44eb-beb1-285a9b53819b.svg?style=for-the-badge)](https://wakatime.com/@56ad1647-52b2-44eb-beb1-285a9b53819b)
 [![](https://img.shields.io/website?color=0ab9e6&style=for-the-badge&up_message=xiaohei.moe&url=https%3A%2F%2Fxiaohei.moe)](https://xiaohei.moe)
+[![](https://wakatime.com/badge/user/56ad1647-52b2-44eb-beb1-285a9b53819b.svg?style=for-the-badge)](https://wakatime.com/@56ad1647-52b2-44eb-beb1-285a9b53819b)
 
 - 🕹️ Embedded Engineer
 - 🐍 Python Programmer
@@ -44,7 +44,7 @@
 ![Multisim](https://img.shields.io/badge/Multisim-%2357B685.svg?style=for-the-badge&logo=multisim&logoColor=white)
 
 ![ARM](https://img.shields.io/badge/ARM-%230091bd.svg?style=for-the-badge&logo=arm&logoColor=white)
-![ARM](https://img.shields.io/badge/RISC--V-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
 
 ![STM32](https://img.shields.io/badge/STM32-%23ffd200.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=03234b)
 ![ESP32](https://img.shields.io/badge/ESP32-%23e7352c.svg?style=for-the-badge&logo=espressif&logoColor=white)
